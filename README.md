@@ -1,4 +1,4 @@
-# CTF
+# CTF Zone
 
 This repository is a collection of CTF write-ups, scripts and cheatsheets I will be creating while participating in Cyber Security Capture The Flag events (CTFs).
 
