@@ -1,16 +1,17 @@
+####################################################################################################################################################################################
 # Date: 26-06-2023
 # Author: CyberSecMaverick
 #
 # Description:
-# =============
 # This is a ROT-1 to ROT-25 (plus ROT-47) brute force script.
 # If an argument is given, the first commandline argument should be a filename with the cipher text.The script will output all potential results in every ROT scheme to output.txt
 # If no argument is given, the script will rpompt you to enter a string or a short ciper text tobe decoded.
 #
 # Usage:
-# =======
 # $ python3 ./rot-bruteforce.py
 # $ python3 ./rot-bruteforce.py encryptedtext.txt
+#######################################################################################################################################################################################
+
 
 import sys
 
