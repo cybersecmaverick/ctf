@@ -13,7 +13,6 @@
 #
 # Output:
 #   - The ASCII representation of the hexadecimal values, displayed on stdout.
-#
 ################################################################################
 
 if [ $# -eq 0 ]; then
